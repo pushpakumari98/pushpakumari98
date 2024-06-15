@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushpa</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
 
-<p align="left"> <img src="https://imgs.search.brave.com/XxOAYCHxMhiMA6wvcu320cvSjsroKOW0M8SUmIFUdxg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzYyNGFjNDA1/MDNhNTI3Y2Y0N2Fm/NDE5Mi82NTMxMzA4/NGZmMGZiMzQ1MzA4/OTk0N2VfZ2lwaHku/Z2lm.jpeg" alt="pushpakumari98" /> </p>
+<p align="left"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pushpakumari98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> </p>
 
