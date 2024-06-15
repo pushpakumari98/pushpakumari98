@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pushpa20052002kumari@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/155ZAUqXxaxsipBD9L0hwfRygvY-FF4BaJ_kJRdIB190/edit?usp=sharing](https://docs.google.com/document/d/155ZAUqXxaxsipBD9L0hwfRygvY-FF4BaJ_kJRdIB190/edit?usp=sharing)
+- 📄 Get my Resume  [https://docs.google.com/document/d/155ZAUqXxaxsipBD9L0hwfRygvY-FF4BaJ_kJRdIB190/edit?usp=sharing](https://docs.google.com/document/d/155ZAUqXxaxsipBD9L0hwfRygvY-FF4BaJ_kJRdIB190/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
