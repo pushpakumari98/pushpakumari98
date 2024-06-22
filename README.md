@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img src="https://img.shields.io/twitter/follow/pushpamehtaa?logo=twitter&style=for-the-badge" alt="pushpamehtaa" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/pushpakumari98/"><img src="www.linkedin.com/in/pushpakumari98" alt="pushpakumari98" /></a> </p>
 
 - 🔭 I’m currently working on **Drowsiness Detection**
 
