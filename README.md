@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img src="https://img.shields.io/twitter/follow/pushpamehtaa?logo=twitter&style=for-the-badge" alt="pushpamehtaa" /></a> </p>
 
-- 🔭 I’m currently working on **Drowsiness Detection**
+- 🔭 I’m currently working on ** **
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://pushpafolio.blogspot.com/](https://pushpafolio.blogspot.com/)
 
