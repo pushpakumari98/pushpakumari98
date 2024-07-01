@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img src="https://img.shields.io/twitter/follow/pushpamehtaa?logo=twitter&style=for-the-badge" alt="pushpamehtaa" /></a> </p>
 
-- 🔭 I’m currently working on ** **
+- 🔭 I’m currently working on **Anomaly detection **
 
 - 🌱 I’m currently learning **Machine Learning**
 
