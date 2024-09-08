@@ -14,8 +14,7 @@ Languages and Tools:
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.azilen.com/wp-content/uploads/2023/07/spring.jpg" alt="c" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-168.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fpostgres" alt="c" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="c" width="40" height="40"/> </a>
-    
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="c" width="40" height="40"/> </a>   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
