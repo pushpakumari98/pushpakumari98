@@ -7,7 +7,7 @@
 
 📫 How to reach me pushpa20052002kumari@gmail.com
 
-📄 Get my Resume https://docs.google.com/document/d/155ZAUqXxaxsipBD9L0hwfRygvY-FF4BaJ_kJRdIB190/edit?usp=sharing
+📄 Get my Resume https://drive.google.com/file/d/1WZ-bzGv6INw1R4K2RPGaqsM5Al8cVFa7/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushpamehtaa" height="30" width="40" /></a> <a href="https://linkedin.com/in/pushpakumari98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpakumari98" height="30" width="40" /></a> <a href="https://instagram.com/pushpa_m200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpa_m200" height="30" width="40" /></a> </p> <h3 align="left">
 Languages and Tools:
