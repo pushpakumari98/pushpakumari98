@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning JAVA Springboot
 
-👨‍💻 All of my projects are available at https://pushpafolio.blogspot.com/
+👨‍💻 All of my projects are available at ..
 
 📫 How to reach me pushpa20052002kumari@gmail.com
 
