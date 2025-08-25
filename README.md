@@ -1,9 +1,9 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi👋,I'm Pushpa ;A Passionate student" width="auto" height="35"/>
-<p align="center"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pushpakumari98" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> </p> <p align="center"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img src="https://img.shields.io/twitter/follow/pushpamehtaa?logo=twitter&style=for-the-badge" alt="pushpamehtaa" /></a> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pushpakumari98" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> 
 
 
-<a href="https://drive.google.com/file/d/1L0dLzuaW-LxHFFApmR6cL4-oVbkWBywG/view?usp=drivesdk"><b>My Resume</b></a>   
+<b><a href="https://drive.google.com/file/d/1L0dLzuaW-LxHFFApmR6cL4-oVbkWBywG/view?usp=drivesdk">My Resume</a></b>  
 
 
 
