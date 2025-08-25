@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pushpakumari98" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> 
 
 
-<b><a href="https://drive.google.com/file/d/1L0dLzuaW-LxHFFApmR6cL4-oVbkWBywG/view?usp=drivesdk">My Resume</a></b>  
+<h3 align="center">My Resume<a href="https://drive.google.com/file/d/1L0dLzuaW-LxHFFApmR6cL4-oVbkWBywG/view?usp=drivesdk"></a></h3> 
 
 
 
