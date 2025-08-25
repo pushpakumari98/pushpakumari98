@@ -9,7 +9,7 @@
 
 
 <h3 align="center">Connect me here</h3>
-<h3 align="center"><a href="https://linkedin.com/in/pushpakumari98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpakumari98" height="30" width="40" /></a> <a href="https://instagram.com/pushpamehta98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpamehta98" height="30" width="40" /></a> </p> <h3 align="center">
+<h3 align="center"><a href="https://linkedin.com/in/pushpakumari98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpakumari89" height="30" width="40" /></a> <a href="https://instagram.com/pushpamehta89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpamehta89" height="30" width="40" /></a> </p> <h3 align="center">
 Languages and Tools:
 <p align="center"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.azilen.com/wp-content/uploads/2023/07/spring.jpg" alt="c" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-168.png" alt="c" width="40" height="40"/> </a> 
